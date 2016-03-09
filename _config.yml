@@ -1,7 +1,7 @@
 name: spldesigns
 favicon: null
-layout_spectrum: 0.5733694697264582
-typography_spectrum: 0.14153503929264843
+layout_spectrum: 1
+typography_spectrum: 0.50088
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.2511099297553301
-  lightness: 0.36478574573993683
-  saturation: 0.6330303051508963
-  rhythmicContrast: 0.3880575702060014
+    - '#2a3139'
+    - '#6d7063'
+    - '#9fa38c'
+    - '#040308'
+    - '#f7cb93'
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
